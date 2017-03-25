@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\200243e9cfde13773414a7adefaaf076c00ef45d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25481006eadd05127a388e4cb0283b85dd9c1529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\2b3fc91829faeda7c307cf35ebdbe7180a7af4b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28e1e6749fbb839029d6f2d1b18ec3ca84f53beb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\3066c7f7fe8bf1f2c0c885e28af175342fee5414\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8e8f239c5aba129827ca7da9d3b5c3bcb33e5d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\15167a96e35e0099a105597b01cc4265bfcc5f6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a0f9c4d257b5237a4a4206aa1e9605ee9aff110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\a9ad54666f5847fc06d8f389110dc425c8294642\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08659acbc4d59e65c60256891312a2e5f60cbd38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\b2d058ccab8f1b2107429f28c2366ba32cabab21\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0f254459ec0cbd305e88ed51aa6467994f10f79b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\1aaaaed7cefdb94a9112238b0d4874bda531e313\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bb9fd451637ed243767be14deab7089969865a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b66c9b380334546d15f0427e7db1d21432c3b0c">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_48109a7215cde858eb51de5d3d2885a131006519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\caf18b0c1d0f01c5a0a4b84860a6b4628e9b4a96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63c9e9539184c605ce7b648168649697cdb0654d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\b2d058ccab8f1b2107429f28c2366ba32cabab21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65decea9e6c9ec307323bb092c8c6613b3166f09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\822cc12a2160981321e4fac3084d9c0329693860\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e28aa740c04a7d525d914fd4874dfddb1ae6c37c">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbd81c9b1eb41c55ef11222e6297df46d7b0784b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\aaad90a448350ebcc79fc167f327ed87cc742603\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ff7bce8d877669b1eba90f260a905e526ac6b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\28ddb63320820fc4efb9349c18cf43c5fc579be8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31954f022af842f230393394221860c05f5ff680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\b131bd841e848f77963d193d21206f84db35364b\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bfaf913298d2c5be0f6e00b9e57b2b4d134e981e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\15167a96e35e0099a105597b01cc4265bfcc5f6d\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_282c8174297aa0b852cf3d59affb88f850d1f8a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\cfb5cb97f7251303b35b6d15fb51d49936c9d099\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed863c15ecc22d7e0fe1841eb47feaccff802d13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\ee95b2cd86c5bc54afdb19af24a05e3b1716ec6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_480bf3b8f95732f1bfc2a4e47bb6a9bc48df0bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7d0c3eb6ddcb9d09847d087e8d727dd7ee3f4132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\1aaaaed7cefdb94a9112238b0d4874bda531e313\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fad92813e572491c9a2271790f73d8548c7555de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\7ec2434c92b983b4343a451d32a514688e227ac5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3596c01d771d2f19713276b50c433ba6d62c9acc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\b131bd841e848f77963d193d21206f84db35364b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3694ec7f71df67627e5bb6de03313f5d8c64d33d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\ee95b2cd86c5bc54afdb19af24a05e3b1716ec6e\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_614856fee3a97c0e4334187dbd882afb94e6f16a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\3066c7f7fe8bf1f2c0c885e28af175342fee5414\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fefc2ed2defef19fef3b62cd0bd288903f6cb42c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\4222d5dfcfd70af84376b86b6274089264421f9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6dc2e3daeb58899a2d41d40dd12c85b9c70c658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\19f986058175463eecb53ccb7d783bdd3b384c02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abe4c00e49b5f739b096d316938d51091a1fa396">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67f15de161c05652fcffa542daadd0e957894242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\822cc12a2160981321e4fac3084d9c0329693860\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a7b107010e6ad293600eea8851d02b880841be2">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_89035a1b2a46f5e983b5679d4bf9962c46f34bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fatih\.android\build-cache\71a2a3f140189dea92a7cdbf770b601327948dd2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="820acba36fa86ab15cb3d472b654dedb495075fd">
+        <dex dex="C:\Users\fatih\OneDrive\Belgeler\GitHub\KelimeEzberimde\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51d4545ec452bf4f6708387ee86539379a1320b1\classes.dex" />
+    </item>
+
+</items>
