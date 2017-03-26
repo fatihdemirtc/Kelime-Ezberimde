@@ -18,9 +18,10 @@ namespace KelimeEzberimde.Controllers
         {
             return db.Users.ToList();
         }
-        public IEnumerable<User> Get(int id)
+        public List<myselect_Result> Get(int userid,int heapId)
         {
-            return db.Users.Where(x => x.Id == id);
+            return db.myselect(userid, heapId).ToList();
+
         }
 
     }
